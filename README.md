@@ -15,5 +15,6 @@ Here I put are:
 4. Labeling the data set with descriptive variable names. 
 5. From the data set in step 4, creating the tidy data set with the average of each variable for each activity and each subject.
 
-### 2) The code book of the tidy data set with the average of each variable for each activity and each subject.
+### 2) The code book of the output -- the tidy data set with the average of each variable for each activity and each subject.
 
+The code book contains the variable list with descriptions.
