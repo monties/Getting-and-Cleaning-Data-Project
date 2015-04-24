@@ -7,7 +7,7 @@ One of the most exciting areas in all of data science right now is wearable comp
 
 Here I put are:
 
-### 1) The R script which follows the steps dealing with raw experimental data set.
+### 1) run_analysis: The R script which follows the steps dealing with raw experimental data set.
 
 1. Merging training and test sets to create one data set.
 2. Extracting only the measurements on the mean and standard deviation for each measurement. 
@@ -15,6 +15,6 @@ Here I put are:
 4. Labeling the data set with descriptive variable names. 
 5. From the data set in step 4, creating the tidy data set with the average of each variable for each activity and each subject.
 
-### 2) The code book of the output -- the tidy data set with the average of each variable for each activity and each subject.
+### 2) CodeBook: The code book of the output -- the tidy data set with the average of each variable for each activity and each subject.
 
 The code book contains the variable list with descriptions.
