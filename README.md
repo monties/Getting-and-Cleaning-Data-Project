@@ -19,3 +19,9 @@ The R script which follows the steps dealing with raw experimental data set.
 ### 2) CodeBook:
 The code book of the output -- the tidy data set with the average of each variable for each activity and each subject.
 It describes the background of this experiment, the meanings of each singnal record, and the variables of the final data set.
+
+### Data License
+Use of the raw dataset in publications must be acknowledged by referencing the following publication [1] 
+
+[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
+This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
