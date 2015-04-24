@@ -50,9 +50,3 @@ There are 81 variables in total in the data set, below are the desctiptions for 
 <b>3. to 81.</b>: average number by each subject and each activity of the mean vlaues (mean), the standard deviation (std) or the weighted average of the frequency components to obtain a mean frequency (meanFreq) for each of the signal resords:
   
   <ul>For example, variable "tBodyAcc-mean()-X" is the average of the mean values of one subject's time-domain acceleration signal records into body in X direction for one kind of activity.</ul>
-
-## License
-Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
-
-[1] Davide Anguita, Alessandro Ghio, Luca Oneto, Xavier Parra and Jorge L. Reyes-Ortiz. Human Activity Recognition on Smartphones using a Multiclass Hardware-Friendly Support Vector Machine. International Workshop of Ambient Assisted Living (IWAAL 2012). Vitoria-Gasteiz, Spain. Dec 2012
-This dataset is distributed AS-IS and no responsibility implied or explicit can be addressed to the authors or their institutions for its use or misuse. Any commercial use is prohibited.
