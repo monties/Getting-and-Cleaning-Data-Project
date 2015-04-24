@@ -47,7 +47,7 @@ There are 81 variables in total in the data set, below are the desctiptions for 
 <b>1. Subject </b>: an integer identifies each subject<br>
 <b>2. activity</b>: a factor variable records the subject's activity within 6 levels -
 <ul>"WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", and "LAYING"</ul>
-<b>3. to 81.</b>: average number by each subject and each activity of the mean or standard deviation (std) of the signal resords:
+<b>3. to 81.</b>: average number by each subject and each activity of the mean vlaues (mean), the standard deviation (std) or the weighted average of the frequency components to obtain a mean frequency (meanFreq) for each the signal resord:
   
   <ul>For example, variable "tBodyAcc-mean()-X" is the average of the mean values of one subject's time-domain acceleration signal records into body in X direction for one kind of activity.</ul>
 
