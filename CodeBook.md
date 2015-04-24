@@ -44,11 +44,11 @@ These signals were used to estimate variables of the feature vector for each pat
 ## Variables in the tidy data set
 There are 81 variables in total in the data set, below are the desctiptions for the variables:
 
-1. Subject : an integer identifies each subject
-2. activity: a factor variable records the subject's activity within 6 levels - "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", and "LAYING"
-3. to 81.: average number by each subject and each activity of the mean or standard deviation (std) of the signal resords:
+<b>1. Subject </b>: an integer identifies each subject<br>
+<b>2. activity</b>: a factor variable records the subject's activity within 6 levels -<br>"WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", and "LAYING"<br>
+<b>3. to 81.</b>: average number by each subject and each activity of the mean or standard deviation (std) of the signal resords:
   
-  For example, variable "tBodyAcc-mean()-X" is the average of the mean values of one subject's time-domain acceleration signal records into body in X direction for one kind of activity.
+  <ul>For example, variable "tBodyAcc-mean()-X" is the average of the mean values of one subject's time-domain acceleration signal records into body in X direction for one kind of activity.</ul>
 
 ## License
 Use of this dataset in publications must be acknowledged by referencing the following publication [1] 
