@@ -42,7 +42,7 @@ These signals were used to estimate variables of the feature vector for each pat
 - fBodyGyroJerkMag
 
 ## Variables in the tidy data set
-There are totally 81 variables in the data set, below are the desctiptions for the variables:
+There are 81 variables in total in the data set, below are the desctiptions for the variables:
 
 1. Subject : an integer identifies each subject
 2. activity: a factor variable records the subject's activity within 6 levels -
