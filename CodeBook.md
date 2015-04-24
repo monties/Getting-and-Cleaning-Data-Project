@@ -45,9 +45,8 @@ These signals were used to estimate variables of the feature vector for each pat
 There are 81 variables in total in the data set, below are the desctiptions for the variables:
 
 1. Subject : an integer identifies each subject
-2. activity: a factor variable records the subject's activity within 6 levels -
-            "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", "LAYING"
-3-81.: average number by each subject and each activity of the mean or standard deviation (std) of the signal resords:
+2. activity: a factor variable records the subject's activity within 6 levels - "WALKING", "WALKING_UPSTAIRS", "WALKING_DOWNSTAIRS", "SITTING", "STANDING", and "LAYING"
+3. to 81.: average number by each subject and each activity of the mean or standard deviation (std) of the signal resords:
   
   For example, variable "tBodyAcc-mean()-X" is the average of the mean values of one subject's time-domain acceleration signal records into body in X direction for one kind of activity.
 
